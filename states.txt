@@ -1,0 +1,53 @@
+kentucky|https://geo.craigslist.org/iso/us/ky
+oklahoma|https://geo.craigslist.org/iso/us/ok
+indiana|https://geo.craigslist.org/iso/us/in
+minnesota|https://geo.craigslist.org/iso/us/mn
+s carolina|https://geo.craigslist.org/iso/us/sc
+mass|https://geo.craigslist.org/iso/us/ma
+delaware|https://geo.craigslist.org/iso/us/de
+missouri|https://geo.craigslist.org/iso/us/mo
+kansas|https://geo.craigslist.org/iso/us/ks
+puerto rico|https://geo.craigslist.org/iso/pr
+tennessee|https://geo.craigslist.org/iso/us/tn
+west virginia|https://geo.craigslist.org/iso/us/wv
+n carolina|https://geo.craigslist.org/iso/us/nc
+illinois|https://geo.craigslist.org/iso/us/il
+georgia|https://geo.craigslist.org/iso/us/ga
+maine|https://geo.craigslist.org/iso/us/me
+idaho|https://geo.craigslist.org/iso/us/id
+michigan|https://geo.craigslist.org/iso/us/mi
+virginia|https://geo.craigslist.org/iso/us/va
+montana|https://geo.craigslist.org/iso/us/mt
+dc|https://geo.craigslist.org/iso/us/dc
+california|https://geo.craigslist.org/iso/us/ca
+texas|https://geo.craigslist.org/iso/us/tx
+washington|https://geo.craigslist.org/iso/us/wa
+pennsylvania|https://geo.craigslist.org/iso/us/pa
+rhode island|https://geo.craigslist.org/iso/us/ri
+connecticut|https://geo.craigslist.org/iso/us/ct
+ohio|https://geo.craigslist.org/iso/us/oh
+hawaii|https://geo.craigslist.org/iso/us/hi
+oregon|https://geo.craigslist.org/iso/us/or
+south dakota|https://geo.craigslist.org/iso/us/sd
+guam|https://geo.craigslist.org/iso/gu
+mississippi|https://geo.craigslist.org/iso/us/ms
+vermont|https://geo.craigslist.org/iso/us/vt
+wyoming|https://geo.craigslist.org/iso/us/wy
+iowa|https://geo.craigslist.org/iso/us/ia
+maryland|https://geo.craigslist.org/iso/us/md
+arizona|https://geo.craigslist.org/iso/us/az
+north dakota|https://geo.craigslist.org/iso/us/nd
+wisconsin|https://geo.craigslist.org/iso/us/wi
+utah|https://geo.craigslist.org/iso/us/ut
+alaska|https://geo.craigslist.org/iso/us/ak
+nebraska|https://geo.craigslist.org/iso/us/ne
+new jersey|https://geo.craigslist.org/iso/us/nj
+new mexico|https://geo.craigslist.org/iso/us/nm
+florida|https://geo.craigslist.org/iso/us/fl
+nevada|https://geo.craigslist.org/iso/us/nv
+arkansas|https://geo.craigslist.org/iso/us/ar
+n hampshire|https://geo.craigslist.org/iso/us/nh
+new york|https://geo.craigslist.org/iso/us/ny
+alabama|https://geo.craigslist.org/iso/us/al
+colorado|https://geo.craigslist.org/iso/us/co
+louisiana|https://geo.craigslist.org/iso/us/la
